@@ -1,0 +1,5 @@
+class BadFilePathException(Exception):
+    """
+
+    """
+    pass
