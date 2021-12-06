@@ -1,2 +1,2 @@
 # fmtxl
-convenient excel document formatter for python
+an excel-to-python document utility using xlrd rather than pandas
